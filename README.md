@@ -55,7 +55,7 @@ Data modeling with Postgres and build an ETL pipeline using Python. Define fact 
 
 ### Data Model
 
-![alt text]([http://url/to/img.png](https://github.com/Pattingerr/PostgreSQLDataModeling/blob/main/postgres_db.jpg))
+![postgresl_db]([https://github.com/Pattingerr/PostgreSQLDataModeling/blob/main/postgres_db.jpg])
 
 ## Files
 
